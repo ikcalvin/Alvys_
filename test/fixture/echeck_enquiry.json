@@ -1,0 +1,13 @@
+{
+    "Data": {
+        "ECheckCode": "408251120985341798",     
+        "Status": "C",       
+        "Amount2": 4.0,
+        "AmountUsed2": 0.0,
+        "Balance": 4.0,       
+        "DateUsed": "2022-03-25T05:00:00Z",       
+        "DateGenerated": "2022-03-26T04:31:31.912066+00:00"        
+    },
+    "ErrorCode": 0,
+    "ResponseId": "BtjigOEO2gg"
+}
