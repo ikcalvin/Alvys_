@@ -1,0 +1,27 @@
+{
+    "Data": [
+        {        
+            "Id": "59783131a0ea46e5bce8fc0fef8a6964",
+            "LoadId": "f10112f8c3f64c72843536cae5fac6d2",
+            "FirstStopAddress": "1620 Progress Pkwy Morristown,TN,37813",
+            "LastStopAddress": "2153 Rose St Franklin Park,IL,60131",
+            "Equipment": "Reefer",
+            "EquipmentLength": "53'",
+            "LoadNumber": "1003790",
+            "TripNumber": "1003790",
+            "Status": "Completed",
+            "Rate": 1700.0,
+            "TripValue": 1700.0,          
+            "TotalMiles": 600.151801721,
+            "TotalWeight": 40000.0,
+            "Temperature": 28.0,
+            "StopCount": 2,
+            "PickupDate": "2022-03-19T00:00:00",
+            "DeliveryDate": "2022-03-21T00:00:00"
+        }
+    ],
+    "ErrorMessage": null,
+    "ErrorCode": 0,
+    "StatusCode": null,
+    "ResponseId": "Ps76xNEN2gg"
+}

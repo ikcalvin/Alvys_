@@ -1,0 +1,87 @@
+{
+    "Data": {
+        "id": "eb9a52f0-95c3-4aea-8fdf-add2d2723e65",
+        "UserName": "vJYY5cwQ2Qg",
+        "Name": "Sandbox Driver",
+        "Email": "app@alvys.com",
+        "SecondaryEmail": null,
+        "SubsidiaryEmail": null,
+        "UserType": "Driver",
+        "Phone": "9094623310",
+        "AppToken": "ZV9jLThhMjE3ZmI3LTMxZGEtNDlhMC04ODFjLWFhZGM2MWExYWJhYS1mMW5R",
+        "DriversLicenceState": "AL",
+        "DriversLicenceNumber": "LC5898979",
+        "Address": {
+            "Name": "",
+            "GoogleId": "",
+            "Street": "1860 Blake St",
+            "ApartmentNumber": "",
+            "City": "Denver",
+            "Zip": "80202",
+            "State": "CO",
+            "Country": "",
+            "Phone": [],
+            "PhoneExtension": "",
+            "Email": [],
+            "Fax": "",
+            "Contacts": [],
+            "Website": "",
+            "Coordinates": {
+                "Latitude": "39.7529388",
+                "Longitude": "-104.9956139"
+            },
+            "CoordinatesFound": true,
+            "VerifiedCoordinates": null,
+            "CheckedWithNtk": null
+        },
+        "DateCreated": "2021-05-06T20:24:05.2602556Z",
+        "DateModified": "2021-05-06T20:24:05.2602556Z",
+        "DriversLicenceExpirationDate": "1990-01-03T00:00:00+00:00",
+        "FirstLogin": false,
+        "IsDeleted": false,
+        "UserTenants": [
+            {
+                "Role": "Driver",
+                "DATUserName": null,
+                "DATPassword": null,
+                "AssetId": "DR2517820826673963075",
+                "ContractorType": "Company Driver",
+                "TruckStopUserName": null,
+                "TruckStopPassword": null,
+                "TruckStopHandle": null,
+                "CompanyCode": "CL358",
+                "InBonusPool": false,
+                "IsDisabled": false,
+                "ComchekRestricted": true,
+                "CompanyOwnedAsset": true,
+                "TruckStopIntegrationIdNum": 0,
+                "CommissionRate": 0,
+                "Office": {
+                    "id": null,
+                    "Name": null,
+                    "CommissionRate": 0,
+                    "IsDeleted": false,
+                    "SharedWith": {
+                        "Users": null,
+                        "Groups": null
+                    },
+                    "CompanyCode": null
+                },
+                "ComcheckSettings": null,
+                "UserIntegrations": null,
+                "Permissions": [
+                    "OOPRate",
+                    "CancelComchek",
+                    "Comchek"
+                ],
+                "UserSettings": null,
+                "Commission": null,
+                "IntegrationCredentials": []
+            }
+        ]
+    },
+    "ErrorMessage": null,
+    "ErrorCode": 0,
+    "StatusCode": null,
+    "ResponseId": "DU6ojdSU2Qg"
+}

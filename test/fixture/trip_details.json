@@ -1,0 +1,143 @@
+{
+    "Data": {
+        "Id": "78bc1febfdd64ee5bb2f89f4e663191e",
+        "LoadId": "4b07d8a96fd043d6a424ac4c56eecd0c",
+        "Equipment": "Reefer",
+        "EquipmentLength": "53'",       
+        "TripNumber": "1003834",
+        "Status": "Completed",
+        "TruckNum": "946",
+        "TruckId": "TR2517730532801602221",
+        "TrailerNum": "R1658",
+        "TrailerId": "TL2517730516660485890",   
+        "GeneralInstructions": "",   
+        "TotalMiles": 724.30731986,
+        "PaidMiles": 724.30731986,
+        "EmptyMiles": 665.226743809,
+        "TotalWeight": 41736.0,
+        "Temperature": 65.0,    
+        "PayableDriverAmounts": [
+            {
+                "id": "DR2517568308601710609",
+                "Amount": 764.24373501795
+            }
+        ],
+        "Attachments": null,      
+        "MiniStops": [
+            {
+                "CompanyName": "Kraft Champaign Regional Buffer",
+                "Street": "702 N Mattis Ave Door 87",
+                "State": "IL",
+                "Zip": "61821",
+                "City": "Champaign",
+                "Phone": "2174028842",
+                "StopDate": "2022-03-21 17:30:00",
+                "ActualStopdate": "2022-03-21 17:30:00",
+                "Status": "Picked Up",
+                "Appointment": "17:30",
+                "MComodities": [
+                    {
+                        "UnitType": "Pallets",
+                        "NumUnits": 0.0,
+                        "Description": "Food & Beverage",
+                        "NumPieces": 0.0,
+                        "HandlingType": "Units",
+                        "Weight": 41736.0,
+                        "WeightType": "lbs",
+                        "Hazmat": null,
+                        "Temperature": null,
+                        "TemperatureType": null,
+                        "ServiceType": null,
+                        "Continuous": false
+                    }
+                ],
+                "Notes": [],
+                "References": [
+                    {
+                        "id": "113e7295-6a5d-297f-9a73-e4a4d19b0b49",                      
+                        "Name": "Load #",
+                        "Value": "167142"                       
+                    }                  
+                ],
+                "Instructions": "LOAD PLANNER CONTACT",
+                "GenInstructions": "",
+                "TimeRecord": {
+                    "Driver": {
+                        "In": "2022-03-21T16:04:21.031+00:00",
+                        "Out": "2022-03-21T18:04:00+00:00"
+                    },
+                    "Truck": {
+                        "In": null,
+                        "Out": null
+                    }
+                },
+                "StopId": "9fee9bbb-c9bd-d3a8-17ba-bbfd25b25466",
+                "StopType": "Pickup",
+                "Latitude": "40.12254",
+                "Longitude": "-88.27676",
+                "StopAddress": "702 N Mattis Ave Door 87 Champaign,IL,61821"
+            },
+            {
+                "CompanyName": "SAMS CLUB DC 8206",
+                "Street": "1911 Continental Blvd",
+                "State": "NC",
+                "Zip": "28273",
+                "City": "Charlotte",
+                "Phone": "",
+                "StopDate": "2022-03-23 06:45:00",
+                "ActualStopdate": "2022-03-23 06:45:00",
+                "Status": "Empty",
+                "Appointment": "06:45",
+                "MComodities": [
+                    {
+                        "UnitType": "Pallets",
+                        "NumUnits": 0.0,
+                        "Description": "Food & Beverage",
+                        "NumPieces": 0.0,
+                        "HandlingType": "Units",
+                        "Weight": 41736.0,
+                        "WeightType": "lbs",
+                        "Hazmat": null,
+                        "Temperature": null,
+                        "TemperatureType": null,
+                        "ServiceType": null,
+                        "Continuous": false
+                    }
+                ],
+                "Notes": [],
+                "References": [
+                    {
+                        "id": "bb00cfbe-2023-ebac-ae57-e3d4ffff93e8",
+                        "PartitionKey": "References",
+                        "Name": "DELIVERY #",
+                        "Value": "81387465",
+                        "CompanyCode": "HN096"
+                    }
+                ],
+                "Instructions": "",
+                "GenInstructions": "",
+                "TimeRecord": {
+                    "Driver": {
+                        "In": null,
+                        "Out": null
+                    },
+                    "Truck": {
+                        "In": null,
+                        "Out": null
+                    }
+                },
+                "StopId": "349c0849-b674-1791-a21c-518a0ff50f76",
+                "StopType": "Delivery",
+                "Latitude": "35.12953",
+                "Longitude": "-80.93161",
+                "StopAddress": "1911 Continental Blvd Charlotte,NC,28273"
+            }
+        ],       
+        "PickupDate": "2022-03-21T17:30:00",
+        "DeliveryDate": "2022-03-23T06:45:00"
+    },
+    "ErrorMessage": null,
+    "ErrorCode": 0,
+    "StatusCode": null,
+    "ResponseId": "3dtNTOwN2gg"
+}
